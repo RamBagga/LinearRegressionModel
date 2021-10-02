@@ -7,5 +7,6 @@ Machine learning, more specifically the field of predictive modeling is primaril
 
 thank you!!!
 
-
-
+# Installing dependencies
+Dependencies are stored in ''' requirements.txt ''' with their version number
+Run ''' pip install -r requirements.txt  ''' to install all the packages you need to run this!
